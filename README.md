@@ -3,6 +3,13 @@
 There will be 2 core functions
 GigHub-Jam & GigHub-Live
 
+### Main Selling Point
+- Like `Partiful` but for Berklee Students and other Jam Session enthusiasts
+- Easy to Schedule, and display participants for a Music Meet event
+- Ability to set to Public or Private (Private doesnt show on `Discover` and will only be accessible if have the link)
+
+
+
 
 # 1. GigHub-Jam: Jam Session & Practice Scheduler:
 MVP Features:
